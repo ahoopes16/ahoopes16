@@ -5,6 +5,7 @@
 [![StackOverflow](https://img.shields.io/badge/-STACKOVERFLOW-orange?style=for-the-badge&logo=stack-overflow&logoColor=white&color=FE7A16&link=https://stackoverflow.com/users/14123656/kevin-hoopes)](https://stackoverflow.com/users/14123656/kevin-hoopes)
 [![CodePen](https://img.shields.io/badge/-CODEPEN-black?style=for-the-badge&logo=codepen&logoColor=white&color=000000&link=https://codepen.io/ahoopes16)](https://codepen.io/ahoopes16)
 [![HashNode](https://img.shields.io/badge/-HASHNODE-blue?style=for-the-badge&logo=hashnode&logoColor=white&color=2962FF&link=https://hashnode.com/@ahoopes16)](https://hashnode.com/@ahoopes16)
+[![GMail](https://img.shields.io/badge/-GMAIL-orange?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&link=mailto:kevin.alex.hoopes@gmail.com)](mailto:kevin.alex.hoopes@gmail.com)
 <br>
 ![GitHub Followers](https://img.shields.io/github/followers/ahoopes16?label=Follow&style=social)
 <br>
