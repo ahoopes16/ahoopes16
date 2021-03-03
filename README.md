@@ -27,6 +27,7 @@ Nice to meet you! My name is Kevin Hoopes, but I go by Alex. I love creating awe
 ![](https://img.shields.io/badge/Tool-Jira-informational?style=flat-square&logo=jira&logoColor=white&color=0052CC)
 ![](https://img.shields.io/badge/Tool-Jenkins-informational?style=flat-square&logo=jenkins&logoColor=white&color=D24939)
 ![](https://img.shields.io/badge/Tool-Opsgenie-informational?style=flat-square&logo=opsgenie&logoColor=white&color=172B4D)
+![](https://img.shields.io/badge/Tool-AWS_Amplify-informational?style=flat-square&logo=aws-amplify&logoColor=white&color=ff8f00)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=e44d26)
@@ -38,7 +39,8 @@ Nice to meet you! My name is Kevin Hoopes, but I go by Alex. I love creating awe
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=56d4f2)
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat-square&logo=gatsby&logoColor=white&color=663399)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=007acc)
-![](https://img.shields.io/badge/Code-AWS_Amplify-informational?style=flat-square&logo=aws-amplify&logoColor=white&color=ff8f00)
+![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat-square&logo=c-sharp&logoColor=white&color=239120)
+
 
 
 ## <img src="https://media.giphy.com/media/f4JSqg5rt40xAPG5Xm/giphy.gif" width="50"> GitHub Stats
