@@ -1,12 +1,13 @@
 # Why hello there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="70">
 *Software Developer at [Express Scripts](https://www.express-scripts.com/)*
 
-![GitHub Followers](https://img.shields.io/github/followers/ahoopes16?label=Follow&style=social)
-<br>
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-alex-hoopes/)](https://www.linkedin.com/in/kevin-alex-hoopes/)
 [![StackOverflow](https://img.shields.io/badge/-STACKOVERFLOW-orange?style=for-the-badge&logo=stack-overflow&logoColor=white&color=FE7A16&link=https://stackoverflow.com/users/14123656/kevin-hoopes)](https://stackoverflow.com/users/14123656/kevin-hoopes)
 [![CodePen](https://img.shields.io/badge/-CODEPEN-black?style=for-the-badge&logo=codepen&logoColor=white&color=000000&link=https://codepen.io/ahoopes16)](https://codepen.io/ahoopes16)
 [![HashNode](https://img.shields.io/badge/-HASHNODE-blue?style=for-the-badge&logo=hashnode&logoColor=white&color=2962FF&link=https://hashnode.com/@ahoopes16)](https://hashnode.com/@ahoopes16)
+<br>
+![GitHub Followers](https://img.shields.io/github/followers/ahoopes16?label=Follow&style=social)
+<br>
 
 Nice to meet you! My name is Kevin Hoopes, but I go by Alex. I love creating awesome things that save people time and make life a little bit easier. Although sometimes I do make things just because they're fun. 🥳
 
@@ -43,11 +44,11 @@ Nice to meet you! My name is Kevin Hoopes, but I go by Alex. I love creating awe
 ## <img src="https://media.giphy.com/media/f4JSqg5rt40xAPG5Xm/giphy.gif" width="50"> GitHub Stats
 
 <a href="https://github.com/ahoopes16/ahoopes16">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahoopes16&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="ahoopes16's GitHub Stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahoopes16&show_icons=true&line_height=27&count_private=true" alt="ahoopes16's GitHub Stats" />
 </a>
 
 <a href="https://github.com/ahoopes16/ahoopes16">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahoopes16&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="ahoopes16's GitHub Stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahoopes16&hide=c%2B%2B,c,html" alt="ahoopes16's GitHub Stats" />
 </a>
 
 ## <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" width="40"> GitHub Trophies
