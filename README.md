@@ -4,10 +4,8 @@ Nice to meet you! My name is Kevin Hoopes, but I go by Alex.
 
 - 🔭 I’m currently working on a website for my wedding!
 - 🌱 I’m currently learning AWS Amplify and GraphQL
-<!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with getting involved in the open source community
 - 💬 Ask me about anything really, although I'll be most useful when it comes to JavaScript, Python, and RESTful API development
-<!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Despite my name being only one letter away from "Hoops", I'm awful at basketball
 
