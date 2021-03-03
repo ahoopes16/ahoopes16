@@ -12,18 +12,26 @@ Nice to meet you! My name is Kevin Hoopes, but I go by Alex.
 - ⚡ Fun fact: Despite my name being only one letter away from "Hoops", I'm awful at basketball
 
 ## 🧰 Technologies/Tools
-![](https://img.shields.io/badge/OS-Apple-informational?style=flat-square&logo=apple&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=00afef&color=00afef)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=0179cb&color=0179cb)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=html5&logoColor=e44d26&color=e44d26)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat-square&logo=css3&logoColor=2299f8&color=2299f8)
-![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat-square&logo=tailwind-css&logoColor=48adb4&color=48adb4)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=ffda4b&color=ffda4b)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=f7e018&color=f7e018)
-![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=56d4f2&color=56d4f2)
+![](https://img.shields.io/badge/OS-iOS-informational?style=flat-square&logo=apple&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=00afef)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=0179cb)
+![](https://img.shields.io/badge/Tool-Ansible-informational?style=flat-square&logo=ansible&logoColor=white&color=EE0000)
+![](https://img.shields.io/badge/Tool-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=FF6C37)
+![](https://img.shields.io/badge/Tool-Jira-informational?style=flat-square&logo=jira&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/Tool-Jenkins-informational?style=flat-square&logo=jenkins&logoColor=white&color=D24939)
+![](https://img.shields.io/badge/Tool-Opsgenie-informational?style=flat-square&logo=opsgenie&logoColor=white&color=172B4D)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=e44d26)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat-square&logo=css3&logoColor=white&color=2299f8)
+![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat-square&logo=tailwind-css&logoColor=white&color=48adb4)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=ffda4b)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=f7e018)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=node.js&logoColor=white&color=90c63d)
+![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=56d4f2)
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat-square&logo=gatsby&logoColor=white&color=663399)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=007acc&color=007acc)
-![](https://img.shields.io/badge/Code-AWS_Amplify-informational?style=flat-square&logo=aws-amplify&logoColor=ff8f00&color=ff8f00)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/Code-AWS_Amplify-informational?style=flat-square&logo=aws-amplify&logoColor=white&color=ff8f00)
 
 
 ## 📊 GitHub Stats
@@ -41,5 +49,6 @@ Nice to meet you! My name is Kevin Hoopes, but I go by Alex.
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahoopes16&theme=nord&column=7)](https://github.com/ahoopes16/github-profile-trophy)
+
 
 (This is still a work in progress, but please check out my projects/contributions below in the meantime!)
