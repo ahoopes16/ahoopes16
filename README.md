@@ -52,4 +52,4 @@ Nice to meet you! My name is Kevin Hoopes, but I go by Alex. I love creating awe
 </a>
 
 ## <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" width="40"> GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahoopes16&theme=nord&column=7)](https://github.com/ahoopes16/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahoopes16&theme=nord&column=7&margin-w=15)](https://github.com/ahoopes16/github-profile-trophy)
