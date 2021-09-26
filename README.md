@@ -1,5 +1,5 @@
 # Why hello there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="70">
-*Full Stack Developer at [Plexus Worldwide](https://plexusworldwide.com/)*
+*Full Stack Developer at [Haystack](https://haystackdev.com/)*
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-alex-hoopes/)](https://www.linkedin.com/in/kevin-alex-hoopes/)
 [![StackOverflow](https://img.shields.io/badge/-STACKOVERFLOW-orange?style=for-the-badge&logo=stack-overflow&logoColor=white&color=FE7A16&link=https://stackoverflow.com/users/14123656/kevin-hoopes)](https://stackoverflow.com/users/14123656/kevin-hoopes)
@@ -12,8 +12,8 @@
 
 Nice to meet you! My name is Kevin Hoopes, but I go by Alex. I love creating awesome things that save people time and make life a little bit easier. Although sometimes I do make things just because they're fun. 🥳
 
-- 🔭 I’m currently working on a website for my wedding!
-- 🌱 I’m currently learning AWS Amplify and GraphQL
+- 🔭 I’m currently working on developing apps with React Native
+- 🌱 I’m currently learning React Native and GraphQL
 - 🤔 I’m looking for help with getting involved in the open source community
 - 💬 Ask me about anything really, although I'll be most useful when it comes to JavaScript, Python, and RESTful API development
 - 😄 Pronouns: he/him
