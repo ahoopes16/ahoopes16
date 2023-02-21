@@ -1,5 +1,5 @@
 # Why hello there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="70">
-*Software Consultant at [Haystack](https://haystackdev.com/)*
+*Senior Software Engineer at [Disca](https://www.disca.tech/)*
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-alex-hoopes/)](https://www.linkedin.com/in/kevin-alex-hoopes/)
 [![StackOverflow](https://img.shields.io/badge/-STACKOVERFLOW-orange?style=for-the-badge&logo=stack-overflow&logoColor=white&color=FE7A16&link=https://stackoverflow.com/users/14123656/kevin-hoopes)](https://stackoverflow.com/users/14123656/kevin-hoopes)
