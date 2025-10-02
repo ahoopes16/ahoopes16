@@ -19,7 +19,7 @@ Over the past 7 years, I've had the opportunity to build products that have **cu
 - 🔭 I’m currently building several **native iOS mobile apps** through my consultancy, Command Point.
 - 🌱 I’m currently learning all about the **RedwoodSDK** ecosystem and the power of **Cloudflare Workers**.
 - 💡 My expertise lies in architecting full-stack solutions with **TypeScript, React, Node.js, and PostgreSQL**.
-- 💬 Ask me about building a software consultancy, project architecture, CI/CD, or anything related to the modern web stack.
+- 💬 Ask me about building a software consultancy, project architecture, CI/CD, or literally any video game or board game you've ever played.
 - 📫 How to reach me: **alex@command-point.com** or on **LinkedIn**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Despite my last name being one letter away from "Hoops", I'm awful at basketball.
