@@ -1,58 +1,88 @@
-# Why hello there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="70">
-*Senior Software Engineer at [Disca](https://www.disca.tech/)*
+### Hi there, I'm Alex Hoopes 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100px" />
+</p>
+<h3 align="center">Senior Software Engineer & Founder | Building High-Impact SaaS & Automation Platforms</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-alex-hoopes/)](https://www.linkedin.com/in/kevin-alex-hoopes/)
-[![StackOverflow](https://img.shields.io/badge/-STACKOVERFLOW-orange?style=for-the-badge&logo=stack-overflow&logoColor=white&color=FE7A16&link=https://stackoverflow.com/users/14123656/kevin-hoopes)](https://stackoverflow.com/users/14123656/kevin-hoopes)
-[![CodePen](https://img.shields.io/badge/-CODEPEN-black?style=for-the-badge&logo=codepen&logoColor=white&color=000000&link=https://codepen.io/ahoopes16)](https://codepen.io/ahoopes16)
-[![HashNode](https://img.shields.io/badge/-HASHNODE-blue?style=for-the-badge&logo=hashnode&logoColor=white&color=2962FF&link=https://hashnode.com/@ahoopes16)](https://hashnode.com/@ahoopes16)
-[![GMail](https://img.shields.io/badge/-GMAIL-orange?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335&link=mailto:kevin.alex.hoopes@gmail.com)](mailto:kevin.alex.hoopes@gmail.com)
-<br>
-![GitHub Followers](https://img.shields.io/github/followers/ahoopes16?label=Follow&style=social)
-<br>
+<p align="center">
+<a href="https://www.linkedin.com/in/kevin-alex-hoopes/"><img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/14123656/kevin-hoopes"><img src="https://img.shields.io/badge/-STACKOVERFLOW-orange?style=for-the-badge&logo=stack-overflow&logoColor=white&color=FE7A16"></a>
+<a href="mailto:kevin.alex.hoopes@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-orange?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"></a>
+</p>
 
-Nice to meet you! My name is Kevin Hoopes, but I go by Alex. I love creating awesome things that save people time and make life a little bit easier. Although sometimes I do make things just because they're fun. 🥳
+I'm a Senior Full Stack Engineer and the Founder of **Command Point**, my own software consultancy. I specialize in building end-to-end solutions that drive real-world business results. I'm passionate about architecting systems that are not only efficient and scalable but also a pleasure to use.
 
-- 🔭 I’m currently working on developing apps with React Native
-- 🌱 I’m currently learning React Native and GraphQL
-- 🤔 I’m looking for help with getting involved in the open source community
-- 💬 Ask me about anything really, although I'll be most useful when it comes to JavaScript, Python, and RESTful API development
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Despite my name being only one letter away from "Hoops", I'm awful at basketball
+Over the past 7 years, I've had the opportunity to build products that have **cut server delivery times by 98%**, and custom software that **saved a client nearly 90% in annual costs**.
 
-## <img src="https://media.giphy.com/media/hPi8NCRZJjfMP8HAU2/giphy.gif" width="40"> Technologies/Tools
-![](https://img.shields.io/badge/OS-iOS-informational?style=flat-square&logo=apple&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=00afef)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=0179cb)
-![](https://img.shields.io/badge/Tool-Ansible-informational?style=flat-square&logo=ansible&logoColor=white&color=EE0000)
-![](https://img.shields.io/badge/Tool-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=FF6C37)
-![](https://img.shields.io/badge/Tool-Jira-informational?style=flat-square&logo=jira&logoColor=white&color=0052CC)
-![](https://img.shields.io/badge/Tool-Jenkins-informational?style=flat-square&logo=jenkins&logoColor=white&color=D24939)
-![](https://img.shields.io/badge/Tool-Opsgenie-informational?style=flat-square&logo=opsgenie&logoColor=white&color=172B4D)
-![](https://img.shields.io/badge/Tool-AWS_Amplify-informational?style=flat-square&logo=aws-amplify&logoColor=white&color=ff8f00)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=336791)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=e44d26)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat-square&logo=css3&logoColor=white&color=2299f8)
-![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat-square&logo=tailwind-css&logoColor=white&color=48adb4)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=ffda4b)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=f7e018)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=node.js&logoColor=white&color=90c63d)
-![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=56d4f2)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat-square&logo=gatsby&logoColor=white&color=663399)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=007acc)
-![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat-square&logo=c-sharp&logoColor=white&color=239120)
+---
 
+- 🔭 I’m currently building several **native iOS mobile apps** through my consultancy, Command Point.
+- 🌱 I’m currently learning all about the **RedwoodSDK** ecosystem and the power of **Cloudflare Workers**.
+- 💡 My expertise lies in architecting full-stack solutions with **TypeScript, React, Node.js, and PostgreSQL**.
+- 💬 Ask me about building a software consultancy, project architecture, CI/CD, or anything related to the modern web stack.
+- 📫 How to reach me: **alex@command-point.com** or on **LinkedIn**.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Despite my last name being one letter away from "Hoops", I'm awful at basketball.
 
+---
 
-## <img src="https://media.giphy.com/media/f4JSqg5rt40xAPG5Xm/giphy.gif" width="50"> GitHub Stats
+### 🧰 My Tech Stack
 
+<table>
+  <tr>
+    <td valign="top"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Frameworks & Libraries</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/RedwoodJS-BF4722?style=for-the-badge&logo=redwoodjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+    <tr>
+    <td valign="top"><strong>Tools & Platforms</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Fly.io-7A41F8?style=for-the-badge&logo=fly&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 My GitHub Stats & Trophies
+
+<p>
 <a href="https://github.com/ahoopes16/ahoopes16">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahoopes16&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="ahoopes16's GitHub Stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahoopes16&hide=c%2B%2B,c,html&theme=gotham" alt="ahoopes16's Top Languages" />
 </a>
+</p>
 
-<a href="https://github.com/ahoopes16/ahoopes16">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahoopes16&hide=c%2B%2B,c,html&theme=gotham" alt="ahoopes16's GitHub Stats" />
+<p>
+<a href="https://github.com/ahoopes16/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahoopes16&theme=nord&column=7&margin-w=15&title=-Followers,-Repositories,-Stars,-Reviews" alt="GitHub Trophies" />
 </a>
-
-## <img src="https://media.giphy.com/media/Veq8KumKpSCcfZ71P1/giphy.gif" width="40"> GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahoopes16&theme=nord&column=7&margin-w=15)](https://github.com/ahoopes16/github-profile-trophy)
+</p>
