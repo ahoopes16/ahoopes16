@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kevin-alex-hoopes/"><img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/14123656/kevin-hoopes"><img src="https://img.shields.io/badge/-STACKOVERFLOW-orange?style=for-the-badge&logo=stack-overflow&logoColor=white&color=FE7A16"></a>
-<a href="mailto:kevin.alex.hoopes@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-orange?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"></a>
+<a href="mailto:alex@command-point.com"><img src="https://img.shields.io/badge/-GMAIL-orange?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"></a>
 </p>
 
 I'm a Senior Full Stack Engineer and the Founder of **Command Point**, my own software consultancy. I specialize in building end-to-end solutions that drive real-world business results. I'm passionate about architecting systems that are not only efficient and scalable but also a pleasure to use.
